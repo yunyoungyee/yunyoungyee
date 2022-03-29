@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm YunYoung</h1>
-
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=YUN%20YOUNG%20KIM&fontSize=60&fontAlign=70&rotate=13&fontAlignY=25&desc=Still%20Learning%20Developer&descAlign=85&descAlignY=44)
 ***
@@ -10,17 +8,9 @@
   </p>
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yunyoungyee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/talking.___.gamzaya/)  
-
-![Profile views](https://gpvc.arturio.dev/yunyoungyee)  
-
-<h1 align="center">Hi 👋, I'm YunYoung</h1>
-- 🌱 I’m currently learning Web & App
-
-<p align="left">
-</p>
+<div>
                <h2 align="left">SKILL</h2>
-                               
+<!--                               
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>                
@@ -28,7 +18,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
+--!>
 <h3 align="left">Frontend Development</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>              
@@ -48,4 +38,4 @@
 <h3 align="left">Game Engines</h3>
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>               
-
+</div>
