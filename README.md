@@ -3,7 +3,7 @@
 ***
 <div>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoungyee&layout=compact&langs_count=6" alt="yunyoungyee" width="45%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoungyee&layout=compact&langs_count=1" alt="yunyoungyee" width="45%" />
   </p>
 </div>
 
