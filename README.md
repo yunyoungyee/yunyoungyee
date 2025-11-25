@@ -1,11 +1,6 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=YUN%20YOUNG%20KIM&fontSize=60&fontAlign=70&rotate=13&fontAlignY=25&desc=Still%20Learning%20Developer&descAlign=85&descAlignY=44)
 ***
-<div>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoungyee&layout=compact&langs_count=1" alt="yunyoungyee" width="45%" />
-  </p>
-</div>
 
 ### Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
