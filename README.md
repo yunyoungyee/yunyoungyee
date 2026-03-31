@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
-### Skills I’m learning
+### ETC
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
