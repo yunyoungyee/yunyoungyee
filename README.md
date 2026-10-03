@@ -1,5 +1,5 @@
 
-![Yunyoung Kim](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=YUN%20YOUNG%20KIM&fontSize=60&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Engineer&descAlign=85&descAlignY=44)
+![Yunyoung Kim — Frontend Engineer](./assets/profile-header.svg)
 
 <div align="center">
 
@@ -9,6 +9,8 @@
 2019.03 — 2023.02 · Graduated
 
 </div>
+## About Me
+
 
 ## What I use
 
@@ -58,5 +60,5 @@
 
 <div>
   <img width="49%" alt="Yunyoung's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=yunyoungyee&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img width="49%" alt="Yunyoung's top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=yunyoungyee&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  <img width="49%" alt="Yunyoung's GitHub streak" src="https://streak-stats.demolab.com/?user=yunyoungyee&theme=dark&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=FFFFFF&border=00FF41&locale=ko" />
 </div>
