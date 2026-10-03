@@ -1,15 +1,11 @@
 
 ![Yunyoung Kim — Frontend Engineer](./assets/profile-header.svg)
 
-<div align="center">
-
-### Soongsil University
-
-**Software · Information Security**<br />
-2019.03 — 2023.02 · Graduated
-
-</div>
 ## About Me
+- <img src="https://github.com/user-attachments/assets/6265dd5c-d51b-4b3c-8439-7c7bcd588b2e" width="24" alt="soongsil" /> Graduated from Soongsil University
+- 💻 Majored in Software and Information Security
+- <img src="https://github.com/user-attachments/assets/15f85df4-f026-4fc1-8073-17e01e20ed3d" width="22" alt="ROTC" /> ROTC 61st
+
 
 
 ## What I use
@@ -19,24 +15,10 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<br>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 </p>
-
-## Selected Repositories
-
-<div>
-  <a href="https://github.com/yunyoungyee/Study">
-    <img width="49%" alt="Study repository" src="https://github-stats-extended.vercel.app/api/pin/?username=yunyoungyee&repo=Study&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/yunyoungyee/ON-GAM_FE">
-    <img width="49%" alt="ON-GAM_FE repository" src="https://github-stats-extended.vercel.app/api/pin/?username=yunyoungyee&repo=ON-GAM_FE&theme=transparent&hide_border=true" />
-  </a>
-</div>
 
 ## Activities
 
