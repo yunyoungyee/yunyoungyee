@@ -7,6 +7,7 @@
 - <img src="https://github.com/user-attachments/assets/15f85df4-f026-4fc1-8073-17e01e20ed3d" width="22" alt="ROTC" /> ROTC 61st
 
 
+<br>
 
 ## What I use
 
@@ -19,21 +20,24 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
 </p>
+<br>
 
 ## Activities
 
 - **NEXTERS 29기** (2026.06 ~ 2026.07)
-  - 장소 아카이빙 서비스
+  - 장소 아카이빙 서비스 - NOOK Archive [[iOS Download](https://apps.apple.com/kr/app/nook-archive/id6798223287)]
 - **SSAFY × Kakao AI Hackathon** (2026.05 ~ 2026.06)
   - 이미지 및 동영상 AI 블러 처리를 통한 개인정보 노출 예방 서비스
 - **Kakao Tech Bootcamp 3th** (2025.09 ~ 2026.03)
   - Full-stack
+<br>
 
 ## Awards
 
-- **SSAFY × Kakao Tech Bootcamp AI Hackathon** 한국전파진흥협회 회장상 — 2026.06
-- **대규모 부하 테스트 토너먼트** 카카오 대표이사상 — 2025.12
-- **2020 Everything 공모전 IT 부문** 최우수상 — 2020.12
+- **SSAFY × Kakao Tech Bootcamp AI Hackathon 한국전파진흥협회 회장상** | 2026.06
+- **대규모 부하 테스트 토너먼트 카카오 대표이사상** | 2025.12
+- **2020 Everything 공모전 IT 부문 최우수상** | 2020.12
+<br>
 
 ## GitHub
 
